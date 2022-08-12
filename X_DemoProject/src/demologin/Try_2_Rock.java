@@ -19,5 +19,11 @@ public class Try_2_Rock {
 		System.out.println("branch created in Github website - so try to push it to branch");
 	}
 
+	@Test
+	public void test4() {
+		System.out.println(" done the commit from branch to main master");
+		System.out.println(" so deleted the backup branch in github web try to "
+				+ "commit it again to the backup branch");
+	}
 	
 }
