@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="43159" started-at="2022-07-18T13:19:41 IST" finished-at="2022-07-18T13:20:24 IST">
+  <suite name="Default suite" duration-ms="54983" started-at="2022-08-12T16:31:03 IST" finished-at="2022-08-12T16:31:58 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="43159" started-at="2022-07-18T13:19:41 IST" finished-at="2022-07-18T13:20:24 IST">
+    <test name="Default test" duration-ms="54983" started-at="2022-08-12T16:31:03 IST" finished-at="2022-08-12T16:31:58 IST">
       <class name="demologin.Logintest_using_array">
-        <test-method status="PASS" signature="launchbrowser(java.lang.String,java.lang.String)[pri:0, instance:demologin.Logintest_using_array@171c76a]" name="launchbrowser" duration-ms="13106" started-at="2022-07-18T13:19:41 IST" data-provider="matrixlogindata" finished-at="2022-07-18T13:19:54 IST">
+        <test-method status="PASS" signature="launchbrowser(java.lang.String,java.lang.String)[pri:0, instance:demologin.Logintest_using_array@171c76a]" name="launchbrowser" duration-ms="23755" started-at="2022-08-12T16:31:03 IST" data-provider="matrixlogindata" finished-at="2022-08-12T16:31:27 IST">
           <params>
             <param index="0">
               <value>
@@ -23,7 +23,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchbrowser -->
-        <test-method status="PASS" signature="launchbrowser(java.lang.String,java.lang.String)[pri:0, instance:demologin.Logintest_using_array@171c76a]" name="launchbrowser" duration-ms="10287" started-at="2022-07-18T13:19:54 IST" data-provider="matrixlogindata" finished-at="2022-07-18T13:20:05 IST">
+        <test-method status="PASS" signature="launchbrowser(java.lang.String,java.lang.String)[pri:0, instance:demologin.Logintest_using_array@171c76a]" name="launchbrowser" duration-ms="10831" started-at="2022-08-12T16:31:27 IST" data-provider="matrixlogindata" finished-at="2022-08-12T16:31:38 IST">
           <params>
             <param index="0">
               <value>
@@ -39,7 +39,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchbrowser -->
-        <test-method status="PASS" signature="launchbrowser(java.lang.String,java.lang.String)[pri:0, instance:demologin.Logintest_using_array@171c76a]" name="launchbrowser" duration-ms="10490" started-at="2022-07-18T13:20:05 IST" data-provider="matrixlogindata" finished-at="2022-07-18T13:20:15 IST">
+        <test-method status="PASS" signature="launchbrowser(java.lang.String,java.lang.String)[pri:0, instance:demologin.Logintest_using_array@171c76a]" name="launchbrowser" duration-ms="10936" started-at="2022-08-12T16:31:38 IST" data-provider="matrixlogindata" finished-at="2022-08-12T16:31:48 IST">
           <params>
             <param index="0">
               <value>
@@ -55,7 +55,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchbrowser -->
-        <test-method status="PASS" signature="launchbrowser(java.lang.String,java.lang.String)[pri:0, instance:demologin.Logintest_using_array@171c76a]" name="launchbrowser" duration-ms="9125" started-at="2022-07-18T13:20:15 IST" data-provider="matrixlogindata" finished-at="2022-07-18T13:20:24 IST">
+        <test-method status="PASS" signature="launchbrowser(java.lang.String,java.lang.String)[pri:0, instance:demologin.Logintest_using_array@171c76a]" name="launchbrowser" duration-ms="9294" started-at="2022-08-12T16:31:48 IST" data-provider="matrixlogindata" finished-at="2022-08-12T16:31:58 IST">
           <params>
             <param index="0">
               <value>
